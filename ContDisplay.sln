@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContDisplay", "ContDisplay\ContDisplay.vbproj", "{CC838464-0284-4946-8757-1E5A47864DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC838464-0284-4946-8757-1E5A47864DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC838464-0284-4946-8757-1E5A47864DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC838464-0284-4946-8757-1E5A47864DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC838464-0284-4946-8757-1E5A47864DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07D517D8-CE74-4C2D-9303-9CA68EABC75E}
+	EndGlobalSection
+EndGlobal

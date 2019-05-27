@@ -1,0 +1,174 @@
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Tom Bird\Downloads\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\2\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameShop.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.GameShop.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\3\ContDisplay\ContDisplay\ContDisplay\obj\Debug\ContDisplay.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.About.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.death.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.Options.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\bin\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\4\ContDisplay\obj\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.About.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.death.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.Options.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\5 - NEW\ContDisplay\obj\Debug\ContDisplay.MessageEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.About.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.death.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.MessageEngine.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.Options.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\ContDisplay\6\ContDisplay\obj\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.exe.config
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.pdb
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.About.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.death.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.DebugKeyCharConverter.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.DebugTeleport.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.FileWrite.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.GameEngine.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.MessageEngine.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.Options.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.SplashMenu.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.Resources.resources
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.exe.manifest
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.application
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.exe
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.xml
+C:\Users\Jordan Gray`\Documents\Splash\Splash X1\6\ContDisplay\obj\Debug\ContDisplay.pdb

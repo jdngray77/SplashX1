@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CC838464-0284-4946-8757-1E5A47864DF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ContDisplay.My.MyApplication</StartupObject>
+    <RootNamespace>ContDisplay</RootNamespace>
+    <AssemblyName>ContDisplay</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>F:\Stuff that isn%27t windows\SplashRelease\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>https://drive.google.com/drive/folders/1GGT5NnNCnF-qCwLXbEpaMH-MPcx6-b9r%3fusp=sharing/</UpdateUrl>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ContDisplay.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ContDisplay.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1D96E4BC6C473CF77C6EAF14C04B6C79FB66DA61</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ContDisplay_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\death.Designer.vb">
+      <DependentUpon>death.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\death.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DebugKeyCharConverter.designer.vb">
+      <DependentUpon>DebugKeyCharConverter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DebugKeyCharConverter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DebugTeleport.Designer.vb">
+      <DependentUpon>DebugTeleport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DebugTeleport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FileWrite.Designer.vb">
+      <DependentUpon>FileWrite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FileWrite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GameEngine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GameEngine.Designer.vb">
+      <DependentUpon>GameEngine.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MessageEngine.Designer.vb">
+      <DependentUpon>MessageEngine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MessageEngine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Options.Designer.vb">
+      <DependentUpon>Options.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Options.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Maps\TileData.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Maps\SplashMap.vb" />
+    <Compile Include="Forms\SplashMenu.Designer.vb">
+      <DependentUpon>SplashMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SplashMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Story lines\SplashStory.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\death.resx">
+      <DependentUpon>death.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DebugKeyCharConverter.resx">
+      <DependentUpon>DebugKeyCharConverter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DebugTeleport.resx">
+      <DependentUpon>DebugTeleport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FileWrite.resx">
+      <DependentUpon>FileWrite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GameEngine.resx">
+      <DependentUpon>GameEngine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MessageEngine.resx">
+      <DependentUpon>MessageEngine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Options.resx">
+      <DependentUpon>Options.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SplashMenu.resx">
+      <DependentUpon>SplashMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ContDisplay_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\check mark active .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\check mark passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\horizontal slider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\hp texture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\hp-mana bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\mana texture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\vertical slider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\big panel 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\big panel 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\horizontal slide panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\hp panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\inventory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\small panel 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\small panel 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\vertical slide panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\- button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\+ button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\achievment button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\chat button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\leaderboards button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\left arrow button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\music off button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\music on button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\options button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\pause button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\right arrow button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\shop button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\small button active.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\small button passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\v button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\x button active.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\x button passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UI\x button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Buildings\MisileCylo.png" />
+    <Content Include="Resources\Character\sprites\idleLeft.gif" />
+    <Content Include="Resources\Character\sprites\idle.gif" />
+    <Content Include="Resources\Character\sprites\jump.png" />
+    <Content Include="Resources\Character\sprites\landing.png" />
+    <Content Include="Resources\Character\sprites\ledge grab.gif" />
+    <Content Include="Resources\Character\sprites\mid air.gif" />
+    <Content Include="Resources\Character\sprites\run.gif" />
+    <Content Include="Resources\GameOver.png" />
+    <Content Include="Resources\Icon.ico" />
+    <Content Include="Resources\LegalSplash.gif" />
+    <Content Include="Resources\Message.png" />
+    <Content Include="Resources\MessagePrompt.png" />
+    <Content Include="Resources\Music\CrimsonDrive.wav" />
+    <Content Include="Resources\Music\GameOverTrack.wav" />
+    <Content Include="Resources\Music\Splash.wav" />
+    <Content Include="Resources\Music\WavesInFlight.wav" />
+    <Content Include="Resources\Sound Effects\Hurt.wav" />
+    <Content Include="Resources\Entities\Apple.png" />
+    <Content Include="Resources\SplashLogo.png" />
+    <Content Include="Resources\Textures\PathAxe.png" />
+    <Content Include="Resources\Textures\SandCactus.png" />
+    <Content Include="Resources\Textures\SandPlain.png" />
+    <Content Include="Resources\Sound Effects\WallWalk.wav" />
+    <Content Include="Resources\Textures\StoryPointerDown.gif" />
+    <Content Include="Resources\Textures\StoryPointerLeft.gif" />
+    <Content Include="Resources\Textures\StoryPointerRight.gif" />
+    <Content Include="Resources\Textures\StoryPointerUp.gif" />
+    <Content Include="Resources\Textures\WaterDown.gif" />
+    <None Include="Resources\nullBlack.bmp" />
+    <Content Include="Resources\Textures\PathExit.png" />
+    <Content Include="Resources\Textures\RockBig.png" />
+    <Content Include="Resources\Textures\RockSmall.png" />
+    <Content Include="Resources\Textures\SavePoint.gif" />
+    <Content Include="Resources\Textures\Selecter.png" />
+    <Content Include="Resources\Textures\TreeSmall.gif" />
+    <None Include="Resources\null.bmp" />
+    <Content Include="Resources\Textures\PathBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
